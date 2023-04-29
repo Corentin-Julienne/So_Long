@@ -6,13 +6,13 @@ A libmlx tutorial can be found at : https://harm-smits.github.io/42docs/libs/min
 
 More informattion can be found in the PDF.
 
-## Compilation
+## Compilation
 
 ```
 make
 ```
 
-## execution
+## Execution
 
 ```
 ./so_long <relative_path_to_the_map>
