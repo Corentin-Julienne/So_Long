@@ -1,4 +1,4 @@
-# So_long_42
+# So Long
 
 So_long is the first graphic project of the 42 cursus. A very simple library (the libmlx) is used to create a small 2D video game where a player must escape the map after collecting some collectibles by going to the exit with the least number of moves.
 
@@ -16,4 +16,10 @@ make
 
 ```
 ./so_long <relative_path_to_the_map>
+```
+
+## Deletion
+
+```
+make fclean
 ```
