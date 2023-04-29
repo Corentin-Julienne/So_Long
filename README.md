@@ -4,4 +4,16 @@ So_long is the first graphic project of the 42 cursus. A very simple library (th
 
 A libmlx tutorial can be found at : https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
 
-More inforamtion can be found in the PDF.
+More informattion can be found in the PDF.
+
+## Compilation
+
+```
+make
+```
+
+## execution
+
+```
+./so_long <relative_path_to_the_map>
+```
